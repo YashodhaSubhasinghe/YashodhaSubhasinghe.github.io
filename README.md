@@ -1,2 +1,2 @@
 # YashodhaSubhasinghe.github.io
-Portfolio website
+My portfolio website hosted on Github
